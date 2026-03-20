@@ -15,34 +15,29 @@ The agent uses a "Dual-Stream" intelligence model:
 [Internal Docs] + [Live API Data] → Semantic Search → Adaptive LLM Synthesis → Executive Report
 Initially, it was a static fallback response, but I made it dynamic by generating insights from the context using it.
 
-📁 Project Structure
+### 📁 Project Structure
 
+```text
 ai-agent/
-│
 ├── data/                      # Internal Ground Truth
 │   ├── annual_report.txt
 │   ├── quarterly_report.txt
 │   └── operational_updates.txt
-│
 ├── src/                       # Core Logic
 │   ├── config.py              # API Key Configuration
-│   ├── ingest.py              # Document Chunking & Source Tagging
-│   ├── api_ingest.py          # Alpha Vantage Live Data Integration
-│   ├── retrieval.py           # FAISS Indexing & Semantic Search
-│   ├── llm.py                 # Intent-Based Adaptive Generation
-│   └── visualization.py       # Matplotlib Financial Plotting
-│
+│   ├── ingest.py              # Document Chunking
+│   ├── api_ingest.py          # Alpha Vantage Integration
+│   ├── retrieval.py           # FAISS & Semantic Search
+│   ├── llm.py                 # Intent-Based Generation
+│   └── visualization.py       # Financial Plotting
 ├── evaluation/                # Testing
 │   ├── eval.py
 │   └── test_questions.json
-│
-├── outputs/                   # Generated Decision Support (Plots)
-│   └── revenue_plot.png
-│
-├── main.py                    
+├── outputs/                   # Generated Plots
+├── main.py                    # Entry Point
 ├── requirements.txt
 └── README.md
-
+```
 
 Setup & Verification:
 1. Install Dependencies
