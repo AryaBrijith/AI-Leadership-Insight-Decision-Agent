@@ -1,0 +1,39 @@
+ADOBE - OPERATIONAL UPDATE - NOVEMBER 2025
+
+HR & TALENT
+Total headcount as of November 2025: 12,450 employees (up from 11,200 in January 2024).
+New hires in 2025: 1,820. Attrition: 570 (overall attrition rate: 4.6%).
+Engineering attrition remains elevated at 22% vs 13% industry benchmark — flagged as critical.
+Employee engagement score: 71/100 (target: 80). Areas of concern: career growth clarity and compensation competitiveness.
+Top reason for departure (exit surveys): Below-market compensation (44%), limited growth opportunities (31%), work-life balance (25%).
+
+OPERATIONS SCORECARD - Q3 2023
+On-Time Delivery: 88.2% (target: 95%) — Logistics underperformance
+Manufacturing Quality Rate: 96.2% (target: 98.5%)
+Customer Support Resolution Time: 4.2 hours average (target: 3 hours) — improving from 6.1 hours in Q1
+IT System Uptime: 99.7% (target: 99.9%)
+Warehouse Utilization: 91% (above optimal 85%; capacity expansion needed)
+
+FINANCIAL OPERATIONS
+Budget utilization (YTD through November):
+- R&D: $398M spent of $450M budget (88.4%)
+- Marketing: $187M of $200M (93.5%)
+- G&A: $210M of $230M (91.3%)
+- Capex: $285M of $320M (89.1%)
+
+TECHNOLOGY & INFRASTRUCTURE
+Cloud migration: 73% of workloads migrated to AWS (target: 90% by year-end — at risk).
+SaaS platform uptime: 99.94% in Q3 — exceeding SLA of 99.9%.
+Security incidents in 2023: 2 low-severity, 1 medium-severity (all resolved). No data breaches.
+Mobile app rating: 4.6/5 on App Store (up from 4.2 in January 2023).
+
+SUSTAINABILITY
+Carbon emissions reduced 8% YoY — on track for 2025 target of 25% reduction.
+Renewable energy usage: 41% of total energy consumption (target: 60% by 2027).
+Waste diversion rate: 78% (target: 85% by 2026).
+
+KEY OPERATIONAL RISKS (November 2025)
+1. Warehouse capacity at 91% utilization — Q4 peak season may exceed capacity; overflow contracts secured as mitigation.
+2. Cloud migration behind schedule — Q4 sprint planned with additional contractor support.
+3. Engineering attrition risk to Q1 2024 product roadmap — 3 key product features at risk of delay.
+4. Supplier concentration: Top 5 suppliers account for 62% of procurement spend.

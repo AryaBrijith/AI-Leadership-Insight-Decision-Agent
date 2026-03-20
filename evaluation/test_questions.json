@@ -1,0 +1,14 @@
+[
+  {
+    "question": "What was the revenue growth in FY2023?",
+    "expected_answer": "14% year-over-year growth, reaching $4.2 billion."
+  },
+  {
+    "question": "What is the current attrition rate in the Engineering department?",
+    "expected_answer": "22%, which is above the 13% industry average."
+  },
+  {
+    "question": "How much did the Logistics department miss its Q3 targets?",
+    "expected_answer": "18%."
+  }
+]

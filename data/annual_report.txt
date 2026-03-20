@@ -1,0 +1,34 @@
+ADOBE- ANNUAL REPORT 2025
+
+EXECUTIVE SUMMARY
+Adobe delivered a strong performance in FY2025, with total revenue reaching $4.2 billion, representing a 14% year-over-year growth compared to $3.68 billion in FY2022. Net profit margin improved to 18.3%, up from 15.1% the prior year, driven by operational efficiencies and product mix improvements.
+
+REVENUE BREAKDOWN
+- Product Sales: $2.8 billion (67% of total revenue), up 11% YoY
+- Services Revenue: $980 million (23% of total revenue), up 22% YoY
+- Licensing & IP: $420 million (10% of total revenue), up 18% YoY
+
+DEPARTMENTAL PERFORMANCE
+The Technology Division was the standout performer, growing 28% YoY to $1.4 billion in revenue, driven by strong adoption of the new SaaS platform launched in Q2. The Sales Division exceeded targets by 12%, particularly in the APAC region which grew 34%.
+
+The Manufacturing Division reported a 3% decline in output due to supply chain disruptions in H1 2023, though recovery was observed in H2. The Logistics Department underperformed against targets by 8%, citing rising fuel costs and staffing shortages as primary contributors.
+
+RISK FACTORS
+1. Macroeconomic headwinds: Rising interest rates may compress margins in 2026.
+2. Supply chain vulnerability: Over-reliance on single-source suppliers for key components remains a critical risk.
+3. Talent retention: Attrition in engineering roles reached 18%, above industry average of 13%.
+4. Regulatory compliance: New data privacy regulations in the EU require $45M in infrastructure investment.
+5. Cybersecurity: Two minor incidents in Q3 highlighted gaps in endpoint security protocols.
+
+STRATEGIC PRIORITIES FOR 2025
+- Accelerate SaaS platform expansion into European markets
+- Invest $200M in supply chain diversification
+- Launch employee retention program targeting engineering talent
+- Achieve ISO 27001 certification by Q2 2026
+
+CASH FLOW & BALANCE SHEET
+Operating cash flow: $780 million (up 19% YoY)
+Capital expenditure: $320 million
+Free cash flow: $460 million
+Total debt: $1.1 billion (Debt-to-equity ratio: 0.42)
+Cash and equivalents: $890 million
